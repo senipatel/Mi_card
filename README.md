@@ -43,8 +43,8 @@ To run this project locally, follow these steps:
    
 3.Run the app:
 
-    ```bash
-    flutter run
+   ```bash
+   flutter run
 
 --
 
