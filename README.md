@@ -46,12 +46,12 @@ To run this project locally, follow these steps:
     ```bash
     flutter run
 
---
+---
 
 ## 👤 Author
 Seni Patel – GitHub Profile
 
---
+---
 
 ## 🙌 Acknowledgements
 This project is inspired by the "Mi Card" app from the Flutter Development Bootcamp with Dart by Dr. Angela Yu.
