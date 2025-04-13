@@ -36,15 +36,15 @@ To run this project locally, follow these steps:
    git clone https://github.com/senipatel/Mi_card.git
    cd Mi_card
 
-2. Install dependencies:
+2. **Install dependencies**:
 
    ```bash
    flutter pub get
    
-3.Run the app:
+3. **Run the app**:
 
-   ```bash
-   flutter run
+    ```bash
+    flutter run
 
 --
 
