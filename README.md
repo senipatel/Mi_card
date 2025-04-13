@@ -20,12 +20,6 @@ A simple Flutter application that serves as a digital business card. This app di
 
 ---
 
-## 📸 Screenshots
-
-*Include screenshots of your app here to showcase its design and functionality.*
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
