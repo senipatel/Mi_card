@@ -1,0 +1,2 @@
+G:/seni patel 22/flutter/code/mi_card/android/app/.cxx/Debug/2w2n436u/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/seni patel 22/flutter/code/mi_card/android/app/.cxx/Debug/2w2n436u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
